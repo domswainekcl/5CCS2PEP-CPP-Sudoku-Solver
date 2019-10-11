@@ -1,0 +1,5 @@
+set (CMAKE_CXX_STANDARD 11)
+add_executable (BasicSudoku BasicSudoku.cpp)
+add_executable (BreadthFSSudoku BreadthFSSudoku.cpp)
+add_executable (BestFSSudoku BestFSSudoku.cpp)
+add_executable (TestSudokuSquare TestSudokuSquare.cpp)
